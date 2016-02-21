@@ -1,7 +1,8 @@
 # windows_wifi_hotspot
 Batch files for creating wifi hotspot on your pc, without installing any other programs. (Req. to have Administrator account)
 
-//For windows 10, do the following lines. For other versions of Windows, figure it out yourself by reading the following lines.
+For windows 10, do the following lines. For other versions of Windows, figure it out yourself by reading the following lines.
+
 
 1. Run the "wifi_set.bat" and the "wifi_start.bat" files, respectively.
 
