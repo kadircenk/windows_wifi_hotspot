@@ -8,7 +8,7 @@ For windows 10, do the following lines. For other versions of Windows, figure it
 
 2. Then, Go to "Network and Sharing Center", select your internet provider modem's "Connections" tab from the list.
 
-3. Click on the "Properties" button, go to the "Share" tab and check "Let other network users to use this PC's internet..." button, then select your newly created hotspot's connection type from the list. (You can find that connection type by going to 2, and looking at the newly created Hotspot's "Connections" button)
+3. Click on the "Properties" button, go to the "Share" tab and check "Let other network users use this PC's internet..." button, then select your newly created hotspot's connection type from the list. (You can find that connection type by going to 2, and looking at the newly created Hotspot's "Connections" button)
 
 From now on, you will only deal with the "wifi_start.bat" and the "wifi_stop.bat" files, to start and stop Wifi Hotspot, respectively.
 
